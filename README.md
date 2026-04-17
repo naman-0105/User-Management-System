@@ -10,6 +10,11 @@ Access the deployed application and API below:
 - **Backend API Base URL:** https://user-management-system-ik9f.onrender.com
 - **API Documentation (Swagger):** https://user-management-system-ik9f.onrender.com/api-docs
 
+## Demo Video
+Full walkthrough of the User Management System
+
+[![Watch Demo](https://img.youtube.com/vi/a7Tr6x3C2Ks/0.jpg)](https://youtu.be/a7Tr6x3C2Ks)
+
 ## Test Credentials
 
 Use the following accounts to test different roles. These accounts are pre-seeded to demonstrate role-based access control (RBAC).
