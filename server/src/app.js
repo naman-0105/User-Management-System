@@ -9,7 +9,8 @@ import swaggerSpec from "./config/swagger.js";
 const app = express();
 
 app.use(cors({
-    origin: ["http://localhost:3000", "http://localhost:5173"],
+  origin: ["https://your-frontend.vercel.app"],
+  credentials: true
 }));
 app.use(express.json());
 
